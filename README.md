@@ -60,3 +60,4 @@ All These commands based on Windows OS
     ```
     python manage.py shell
     ```
+    End---
